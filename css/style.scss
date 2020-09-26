@@ -1,0 +1,27 @@
+html{
+    text-decoration: none;
+    background: azure;
+}
+.nav-bar{
+    position: absolute;
+    top: 1em;
+    right: 1em;
+    .right{
+        margin-left: 20px;
+        
+        a{
+            text-decoration: none;
+            color: grey;
+
+        }
+
+    }
+    #home{
+        position: absolute;
+        left: 1em;
+        text-decoration: none;
+        color: #0f0f0f;
+        top: 1em;
+    }
+
+}

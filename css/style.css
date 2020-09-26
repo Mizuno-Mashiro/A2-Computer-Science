@@ -1,0 +1,28 @@
+html {
+  text-decoration: none;
+  background: azure;
+}
+
+.nav-bar {
+  position: absolute;
+  top: 1em;
+  right: 1em;
+}
+
+.nav-bar .right {
+  margin-left: 20px;
+}
+
+.nav-bar .right a {
+  text-decoration: none;
+  color: grey;
+}
+
+.nav-bar #home {
+  position: absolute;
+  left: 1em;
+  text-decoration: none;
+  color: #0f0f0f;
+  top: 1em;
+}
+/*# sourceMappingURL=style.css.map */
