@@ -1,5 +1,7 @@
 # A2-Computer-Science
 
-## This repository collects all my coding works done
+### This repository collects all my coding works done in my A2 year
     
-## Which kindly includes Hailstone, Euclid's Algorithms, etc.
+### Include Hailstone, Euclid's Algorithms, etc.
+    
+#### Algorithms are mainly written in **Python**
