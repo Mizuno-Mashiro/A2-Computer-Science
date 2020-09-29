@@ -5,3 +5,7 @@
 ### Include Hailstone, Euclid's Algorithms, etc.
     
 #### Algorithms are mainly written in **Python**
+
+## Contributors
+** Bao Ning ** 
+** Chen Yiming **
