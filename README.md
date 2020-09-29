@@ -7,6 +7,6 @@
 #### Algorithms are mainly written in **Python**
 
 ## Contributors
-### **Bao Ning** 
+### **Bao Ning** (Me)
     
-#### **Chen Yiming**
+#### **Chen Yiming**(My collaborator who has also contributed to some parts of the programs)
